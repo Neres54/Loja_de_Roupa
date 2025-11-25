@@ -1,0 +1,6 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "selenium-webdriver": "^4.38.0"
+  }
+}
